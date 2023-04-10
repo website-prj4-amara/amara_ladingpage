@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:  #FAD7D1;
+	font-family: "proxima-nova", sans-serif;
+font-weight: 500;
+font-style: normal;
+	color:#3F322A;
+}
+.logo-font{
+	font-family: "jeanne-moderno-geometrique", sans-serif;
+font-weight: 600;
+font-style: normal;
+}
+.navbar {
+	background-color: #6FBCB3;
+}
+.padding {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.color-block{
+	background-color: #6FBCB3;
+}
+.padding-bottom{
+	padding-bottom: 30px;
+}

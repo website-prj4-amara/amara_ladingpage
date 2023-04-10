@@ -14,9 +14,6 @@ font-style: normal;
 
 /* Changing the background colour for the header */
 
-header {
-	background-color: #000060;
-}
 
 /* Changing the background color for the navigation bar */
 
@@ -44,4 +41,20 @@ font-style: normal;
 }
 .text-color{
 	color: #3F322A !important;
+}
+.carousel-text {
+	color: #FAD7D1 !important;
+}
+.button-color{
+	color:#a10054 !important;
+}
+.padding {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.padding-bottom{
+	padding-bottom: 30px;
+}
+.idk {
+	background-color: #6FBCB3;
 }
