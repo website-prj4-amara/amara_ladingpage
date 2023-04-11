@@ -25,3 +25,10 @@ font-style: normal;
 .padding-bottom{
 	padding-bottom: 30px;
 }
+.padding-side{
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.btn{
+	background-color:#a10054;
+}
