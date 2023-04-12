@@ -61,3 +61,8 @@ font-style: normal;
 .btn{
 	background-color:#a10054;
 }
+.idk2{
+	position: absolute;
+	top: 5%;
+	z-index:1;
+}
