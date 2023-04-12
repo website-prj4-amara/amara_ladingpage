@@ -43,7 +43,7 @@ font-style: normal;
 	color: #3F322A !important;
 }
 .carousel-text {
-	color: #016D60 !important;
+	color: #a10054 !important;
 }
 .button-color{
 	color:#a10054 !important;
@@ -60,9 +60,4 @@ font-style: normal;
 }
 .btn{
 	background-color:#a10054;
-}
-.idk2{
-	position: absolute;
-	top: 5%;
-	z-index:1;
 }
